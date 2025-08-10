@@ -40,7 +40,8 @@ This project covers:
 
 ## 📸 Dashboard Preview
 
-> *(Add a screenshot here using `![Dashboard Screenshot](path/to/image.png)`)*
+<img width="1298" height="718" alt="image" src="https://github.com/user-attachments/assets/8702a403-aa91-4c1f-8133-4020a343bd9b" />
+
 
 ---
 
